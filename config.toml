@@ -1,6 +1,6 @@
 baseURL = "https://zhangyuruo.github.io"
 title = "Culture Resilience lab"
-author = "username"
+author = "Design for Resilient Culture Research Group"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -24,8 +24,8 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main_text = "Design for Resilient Culture Research Group"
+    alt = "Design for Resilient Culture Research Group"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
