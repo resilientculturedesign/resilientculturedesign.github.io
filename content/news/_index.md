@@ -9,21 +9,34 @@ tags = ["index"]
 
 <br/>
 <br/>
+
 ![](/img/news/1.jpg)
+
+<br/>
+<br/>
 
 ### Interaction Design (Empowering Teenagers' Sustainable Behavior) Workshop  6.2023
 <br/>
 <br/>
+
 ![](/img/news/2.jpg)
+
+<br/>
+<br/>
 
 
 ### Southern University of Science and Technology Shuli College: Bianjing Lantern Making Workshop                         12.2023 
 <br/>
 <br/>
+
 ![](/img/news/3.jpg)
+
+<br/>
+<br/>
 
 ### “Digital Innovation within Intangible Cultural Heritage” Seminar.      12.2023                         
 <br/>
 <br/>
+
 ![](/img/news/4.jpg)
 
