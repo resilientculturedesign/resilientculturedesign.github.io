@@ -31,7 +31,7 @@ Our research group focuses on cultural practices that have been handed down from
         <img src="/img/team/1.jpg">
     </div>
     <div>
-       <h5>Dr. Wanlin ZHANG</h5>
+       <h5> <a href="https://designschool.sustech.edu.cn/cn/about/team/faculty/539.html">Dr. Wanlin ZHANG </a> </h5>
        <div>Lab Head, Assitant Professor</div>
        <div>Culturally significant design, Design for sustainability, and Digital humanities.</div>
 </div>
