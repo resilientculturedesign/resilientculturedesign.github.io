@@ -2,4 +2,4 @@
 title: 'News'
 ---
 
-News
+

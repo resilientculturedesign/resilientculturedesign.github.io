@@ -123,6 +123,17 @@ Our research group focuses on cultural practices that have been handed down from
        <div>Art design | Intangible Cultural Heritage | Cultural space design</div>
 </div>
 </div></li>
+
+<li >  <div>
+    <div  style="width: 288px; ">
+        <img src="/img/team/10.jpg">
+    </div>
+    <div>
+       <h5>Dr.An Liang</h5>
+       <div>Visiting Scholar,PhD.</div>
+       <div>Human-Computer Interaction| Wearable Technology |E-Textiles | Interaction Design</div>
+</div>
+</div></li>
    
 </ul>
 
