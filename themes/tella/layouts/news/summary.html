@@ -1,0 +1,11 @@
+<a href="{{ .Permalink }}">
+
+    <img src="{{ .Params.image }}" alt="">
+    <div class="p-3 summary">
+        <h3 class="text-3xl">
+            {{ .Title }}
+        </h3>
+        <h4> {{ .Params.author }} </h4>
+              <p>{{ .Description }}</p>
+    </div>
+</a>
