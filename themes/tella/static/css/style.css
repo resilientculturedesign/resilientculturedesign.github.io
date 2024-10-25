@@ -128,7 +128,16 @@ html {
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
+
+
 }
+
+
+
+
+
+
+
 .swiper-slide .s-fade-txt {
   animation: FadeAni 0.5s ease 1s 1 normal both;
 }
@@ -394,4 +403,13 @@ span.begin-task-list + ul {
 }
 .url {
   background-color: #222;
+}
+
+
+.s-fade-txt-news1 {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
 }
