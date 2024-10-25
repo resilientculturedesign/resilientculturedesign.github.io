@@ -132,6 +132,16 @@ html {
 
 }
 
+.swiper-slide .s-fade-txt1 {
+  position: absolute;
+  top: 67%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  
+
+
+}
+
 
 
 
