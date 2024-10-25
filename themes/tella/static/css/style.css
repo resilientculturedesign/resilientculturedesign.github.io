@@ -125,7 +125,7 @@ html {
 .swiper-slide .s-fade-txt {
   position: absolute;
   top: 64%;
-  left: 26%;
+  left: 30%;
   transform: translate(-50%, -50%);
   opacity: 0;
 
@@ -135,7 +135,7 @@ html {
 .swiper-slide .s-fade-txt1 {
   position: absolute;
   top: 67%;
-  left: 23%;
+  left: 30%;
   transform: translate(-50%, -50%);
   
 
@@ -145,7 +145,7 @@ html {
 .swiper-slide .s-fade-txt2 {
   position: absolute;
   top: 67%;
-  left: 18%;
+  left: 30%;
   transform: translate(-50%, -50%);
   
 
