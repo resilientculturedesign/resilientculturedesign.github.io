@@ -32,7 +32,7 @@ Our research group focuses on cultural practices that have been handed down from
     <div>
        <h5> <a href="https://designschool.sustech.edu.cn/cn/about/team/faculty/539.html">Dr. Wanlin ZHANG </a> </h5>
        <div class="text-xl ">Assistant Professor</div>
-       <div style="width: 288px; " class="text-sm ">Culturally significant design, Design for sustainability, and Digital Humanities.</div>
+       <div style="width: 288px; " class="text-sm ">Culturally significant design, Design for sustainability, and Digital Humanities</div>
     
 </div>
 </div></li>
@@ -51,7 +51,7 @@ Our research group focuses on cultural practices that have been handed down from
     <div  style="width: 288px; ">
         <img src="/img/team/3.jpg">
     </div>
-    <div>
+    <div style="width: 288px; ">
        <h5 style="font-weight:bold">Huanshu Jiang</h5>
        <div class="text-xl ">PhD Student</div>
        <div class="text-sm ">Underwater Human-Robot Collaboration(U-HRC), Underwater Robots in Archaeology, Consumer Psychology</div>
@@ -85,8 +85,8 @@ Our research group focuses on cultural practices that have been handed down from
     </div>
     <div style="width: 288px; ">
        <h5 style="font-weight:bold">Rui Shan</h5>
-       <div>Master Student</div>
-       <div>HCI, Design for Sustainable Behavior</div>
+       <div class="text-xl ">Master Student</div>
+       <div class="text-sm ">HCI, Design for Sustainable Behavior</div>
 </div>
 </div></li>
 
@@ -105,7 +105,7 @@ Our research group focuses on cultural practices that have been handed down from
     <div  style="width: 288px; ">
         <img src="/img/team/8.jpg">
     </div>
-    <div>
+    <div <div  style="width: 288px; ">
        <h5 style="font-weight:bold">Yuruo Zhang</h5>
        <div class="text-xl ">Research Assistant</div>
        <div class="text-sm ">Culturally significant design, Digital humanities, Design for sustainability</div>
@@ -117,7 +117,7 @@ Our research group focuses on cultural practices that have been handed down from
     <div  style="width: 288px; ">
         <img src="/img/team/9.jpg">
     </div>
-    <div>
+    <div  style="width: 288px; ">
        <h5 style="font-weight:bold">Dr.Guangtao Zhang</h5>
        <div class="text-xl ">Research Assistant</div>
        <div class="text-sm ">Computer Vision, Computational Mathematics, AI for Design</div>
