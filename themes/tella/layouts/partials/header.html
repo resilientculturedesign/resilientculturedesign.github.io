@@ -11,10 +11,10 @@
         </ul>
     </div>
     <nav class="flex flex-wrap items-center justify-between p-8 bg-opacity-100">
-        <div class="flex items-center flex-shrink-0 mr-6 text-xl text-grey-900">
-            <a href="{{ .Site.BaseURL }}"><span 
-                    class="{{ .Site.Params.logo.size }} mr-3" style=" font-weight:bold;">  {{ .Site.Params.logo.main_text  }} </span></a>
-        </div>
+            <div class="flex items-center flex-shrink-0 mr-6 text-xl text-grey-900">
+                <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
+                        class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
+            </div>
         <div class="block lg:hidden">
             <div id="hamburgerbtn" class="flex items-center h-10 py-2 rounded cursor-pointer w-14 mopen">
                 <span class="top"></span>

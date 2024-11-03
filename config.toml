@@ -24,7 +24,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main_text = "Design for Resilient Culture Research Group"
+    main = "img/logo/logo.svg"
     alt = "Design for Resilient Culture Research Group"
 
     # The size parameter is the class name of tailwindcss
