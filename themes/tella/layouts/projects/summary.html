@@ -1,11 +1,13 @@
-<a href="{{ .Permalink }}">
+<div  style="height: 100%; width: 100%; margin-bottom: 20px;">
 
-    <img src="{{ .Params.image }}" alt="">
-    <div class="p-3 summary">
-        <h3 class="text-3xl">
+   <div class="imgbox" >
+    <img src="{{ .Params.image }}" alt="" >
+    <div class="text-xl "  style="position: relative; margin-top: -65px; font-weight: bold;width: 80%;text-align: left;color: white;margin-left: 40px;" >
+     
             {{ .Title }}
-        </h3>
-        <h4> {{ .Params.author }} </h4>
-              <p>{{ .Description }}</p>
+   
+  
+     
     </div>
-</a>
+   </div>
+</div>
