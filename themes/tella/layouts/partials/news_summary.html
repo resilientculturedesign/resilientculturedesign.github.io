@@ -10,6 +10,7 @@
   <div
     class="relative justify-between w-full max-w-full p-6 pl-4 leading-normal border-b border-l border-r border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400">
     <div class="mb-2 text-xl font-bold text-gray-900">{{ .Title }}</div>
+    <div class="mb-2 text-xl font-bold text-gray-900">{{ .Params.small_title }}</div>
     <p class="pb-5 text-base text-gray-700">{{.Params.author}}</p>
     <p class="items-center text-sm text-gray-600">
       <time>{{ .Date.Format "2006/01/02" }}</time>
