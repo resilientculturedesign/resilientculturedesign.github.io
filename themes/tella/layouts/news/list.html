@@ -38,8 +38,8 @@
     <div class="py-1 content">{{.Content}}</div>
     {{ $paginator := .Paginate (where .Data.Pages "Type" "in" site.Params.mainSections) 6 }}
     {{ range $paginator.Pages }}
-    <a href="{{ .Permalink }}">
-      <div>{{ partial "summary.html" . }}</div>
+    <a href="{{ .Params.prelink }}">
+      <div>{{ partial "news_summary.html" . }}</div>
     </a>
     {{ end }}
   </div>
