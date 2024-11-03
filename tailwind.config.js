@@ -10,6 +10,9 @@ module.exports = {
           800: "#1F2937"
         }
       }
+    },
+    fontFamily: {
+      'serif': ['ui-serif', 'Georgia'],
     }
   },
   variants: {},
