@@ -433,6 +433,3 @@ span.begin-task-list + ul {
   opacity: 0;
 }
 
-.imgbox:hover  .imgboxtext{
-  display: none;
-}
