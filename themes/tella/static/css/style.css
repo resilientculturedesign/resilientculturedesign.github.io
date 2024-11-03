@@ -433,19 +433,6 @@ span.begin-task-list + ul {
   opacity: 0;
 }
 
-
-.img-container .imgbox {
-
-}
-.img-container img{
-      position: absolute;/*设为绝对定位*/
-        opacity: 0.7;/*设置透明度*/
-}
-
-.img-container  div {
-  width: inherit;
-        text-align: right;
-        font-size: 20px;
-        color: ivory;
-        position: absolute;/*设为绝对定位*/
+.imgbox:hover  .imgboxtext{
+  display: none;
 }
