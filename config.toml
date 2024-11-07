@@ -77,7 +77,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "Join us"
     name = "Join us"
-    url = "/Joinus/"
+    url = "/contact/"
     weight = 5
 [markup]
   defaultMarkdownHandler = "goldmark"
