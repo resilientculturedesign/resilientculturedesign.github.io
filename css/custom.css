@@ -1,0 +1,12 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+
+.imgbox-container:hover  .imgboxtext{
+    display: none;
+    opacity: 1;
+
+    transition: opacity 2s ease-in-out, visibility 0s 2s;
+}
+
