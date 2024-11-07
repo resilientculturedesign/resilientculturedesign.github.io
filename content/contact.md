@@ -2,9 +2,10 @@
 title: 'Join us'
 ---
 
-![](/img/home/join.jpg)
+
 
 Welcome to contact us！:-) 
+
 zhangwl3@sustech.edu.cn
 
 Address
