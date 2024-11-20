@@ -14,7 +14,7 @@ title: 'Team'
 ## About us
 
 
-The Design for Resilient Culture Research Group (DRC) is part of the School of [Design at Southern University of Science and Technology ](https://designschool.sustech.edu.cn/cn)in Shenzhen, China. This research group is led by Dr. Wanlin ZHANG, who is a design researcher and design educator on culturally significant design, design for sustainability, and digital humanities. 
+The Design for Resilient Culture Research Group (DRC) is part of  [the School of Design at Southern University of Science and Technology ](https://designschool.sustech.edu.cn/cn)in Shenzhen, China. This research group is led by Dr. Wanlin ZHANG, who is a design researcher and design educator on culturally significant design, design for sustainability, and digital humanities. 
 
 
 Our research group focuses on cultural practices that have been handed down from generations to generations, such as craft, music, song, dance, and theater. We believe that these practices are inherently resilient, as they draw on traditions while continually adapt and evolve to meet contemporary needs. In a society increasingly shaped by digital technologies, we are particularly focused on how these innovations contribute to the resilient development of culture. Also, we are deeply interested in exploring how digital technologies facilitate new forms of cultural digitalization that align with principles of resilience. 
