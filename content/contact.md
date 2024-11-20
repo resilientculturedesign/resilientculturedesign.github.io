@@ -6,7 +6,7 @@ title: 'Join us'
 
 Welcome to contact us！:-) 
 
-zhangwl3@sustech.edu.cn
+
 
 
 <div style="margin-bottom:300px"> </div>
